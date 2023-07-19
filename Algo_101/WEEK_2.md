@@ -4,8 +4,8 @@
 - Search Algorithms
 
 ##### Bir mapte en değer kısmında en büyük sayıyı nasıl bulursun;
-- std::map<int,int>::iterator best
-        = std::max_element(mp.begin(),mp.end(),[] (const std::pair<int,int>& a, const    std::pair<int,int>& b)->bool{ return a.second < b.second; } );
+`std::map<int,int>::iterator best
+        = std::max_element(mp.begin(),mp.end(),[] (const std::pair<int,int>& a, const    std::pair<int,int>& b)->bool{ return a.second < b.second; } );`
 
 
 ## Questions
