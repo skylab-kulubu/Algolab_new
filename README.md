@@ -1,6 +1,6 @@
 # Algolab_new
 
-## Compatitive Problems Websites
+## Competitive Problems Websites
 - www.leetcode.com/
 - www.codeforces.com/
 - www.codewars.com/
